@@ -1,0 +1,1082 @@
+{
+  "dimension": [
+                 {
+                   "label": "GHO",
+                   "display": "Indicator"
+                 },
+                 {
+                   "label": "PUBLISHSTATE",
+                   "display": "PUBLISH STATES"
+                 },
+                 {
+                   "label": "YEAR",
+                   "display": "Year"
+                 },
+                 {
+                   "label": "REGION",
+                   "display": "WHO region"
+                 },
+                 {
+                   "label": "COUNTRY",
+                   "display": "Country"
+                 },
+                 {
+                   "label": "SEX",
+                   "display": "Sex"
+                 },
+                 {
+                   "label": "RESIDENCEAREATYPE",
+                   "display": "Residence Area Type"
+                 }
+               ],
+    "fact": [
+              {
+                "dims": {
+                          "COUNTRY": "Benin",
+                          "YEAR": "2006",
+                          "GHO": "HIV prevalence",
+                          "RESIDENCEAREATYPE": "Urban",
+                          "SEX": "Male"
+                        },
+                "Comments": "Only for Cotonou",
+                "Value": "0.5"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Benin",
+                          "YEAR": "2006",
+                          "GHO": "HIV prevalence",
+                          "RESIDENCEAREATYPE": "Urban",
+                          "SEX": "Female"
+                        },
+                "Comments": "Only for Cotonou",
+                "Value": "2.8"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Benin",
+                          "YEAR": "2006",
+                          "GHO": "HIV prevalence",
+                          "RESIDENCEAREATYPE": "Rural",
+                          "SEX": "Male"
+                        },
+                "Comments": "Only for Cotonou",
+                "Value": "0.7"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Benin",
+                          "YEAR": "2006",
+                          "GHO": "HIV prevalence",
+                          "RESIDENCEAREATYPE": "Rural",
+                          "SEX": "Female"
+                        },
+                "Comments": "Only for Cotonou",
+                "Value": "1.0"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Burkina Faso",
+                          "YEAR": "2010",
+                          "GHO": "HIV prevalence",
+                          "RESIDENCEAREATYPE": "Urban",
+                          "SEX": "Male"
+                        },
+                "Value": "1.4"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Burkina Faso",
+                          "YEAR": "2010",
+                          "GHO": "HIV prevalence",
+                          "RESIDENCEAREATYPE": "Urban",
+                          "SEX": "Female"
+                        },
+                "Value": "2.6"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Burkina Faso",
+                          "YEAR": "2010",
+                          "GHO": "HIV prevalence",
+                          "RESIDENCEAREATYPE": "Rural",
+                          "SEX": "Male"
+                        },
+                "Value": "0.5"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Burkina Faso",
+                          "YEAR": "2010",
+                          "GHO": "HIV prevalence",
+                          "RESIDENCEAREATYPE": "Rural",
+                          "SEX": "Female"
+                        },
+                "Value": "0.7"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Burundi",
+                          "YEAR": "2010",
+                          "GHO": "HIV prevalence",
+                          "RESIDENCEAREATYPE": "Urban",
+                          "SEX": "Male"
+                        },
+                "Value": "2.4"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Burundi",
+                          "YEAR": "2010",
+                          "GHO": "HIV prevalence",
+                          "RESIDENCEAREATYPE": "Urban",
+                          "SEX": "Female"
+                        },
+                "Value": "6.1"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Burundi",
+                          "YEAR": "2010",
+                          "GHO": "HIV prevalence",
+                          "RESIDENCEAREATYPE": "Rural",
+                          "SEX": "Male"
+                        },
+                "Value": "0.7"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Burundi",
+                          "YEAR": "2010",
+                          "GHO": "HIV prevalence",
+                          "RESIDENCEAREATYPE": "Rural",
+                          "SEX": "Female"
+                        },
+                "Value": "1.2"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Cabo Verde",
+                          "YEAR": "2005",
+                          "GHO": "HIV prevalence",
+                          "RESIDENCEAREATYPE": "Urban",
+                          "SEX": "Male"
+                        },
+                "Value": "1.4"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Cabo Verde",
+                          "YEAR": "2005",
+                          "GHO": "HIV prevalence",
+                          "RESIDENCEAREATYPE": "Urban",
+                          "SEX": "Female"
+                        },
+                "Value": "0.4"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Cabo Verde",
+                          "YEAR": "2005",
+                          "GHO": "HIV prevalence",
+                          "RESIDENCEAREATYPE": "Rural",
+                          "SEX": "Male"
+                        },
+                "Value": "0.7"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Cabo Verde",
+                          "YEAR": "2005",
+                          "GHO": "HIV prevalence",
+                          "RESIDENCEAREATYPE": "Rural",
+                          "SEX": "Female"
+                        },
+                "Value": "0.4"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Cameroon",
+                          "YEAR": "2011",
+                          "GHO": "HIV prevalence",
+                          "RESIDENCEAREATYPE": "Urban",
+                          "SEX": "Male"
+                        },
+                "Value": "3.0"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Cameroon",
+                          "YEAR": "2011",
+                          "GHO": "HIV prevalence",
+                          "RESIDENCEAREATYPE": "Urban",
+                          "SEX": "Female"
+                        },
+                "Value": "6.4"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Cameroon",
+                          "YEAR": "2011",
+                          "GHO": "HIV prevalence",
+                          "RESIDENCEAREATYPE": "Rural",
+                          "SEX": "Male"
+                        },
+                "Value": "2.7"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Cameroon",
+                          "YEAR": "2011",
+                          "GHO": "HIV prevalence",
+                          "RESIDENCEAREATYPE": "Rural",
+                          "SEX": "Female"
+                        },
+                "Value": "4.6"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Central African Republic",
+                          "YEAR": "2010",
+                          "GHO": "HIV prevalence",
+                          "RESIDENCEAREATYPE": "Urban",
+                          "SEX": "Male"
+                        },
+                "Value": "4.8"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Central African Republic",
+                          "YEAR": "2010",
+                          "GHO": "HIV prevalence",
+                          "RESIDENCEAREATYPE": "Urban",
+                          "SEX": "Female"
+                        },
+                "Value": "10.3"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Central African Republic",
+                          "YEAR": "2010",
+                          "GHO": "HIV prevalence",
+                          "RESIDENCEAREATYPE": "Rural",
+                          "SEX": "Male"
+                        },
+                "Value": "1.9"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Central African Republic",
+                          "YEAR": "2010",
+                          "GHO": "HIV prevalence",
+                          "RESIDENCEAREATYPE": "Rural",
+                          "SEX": "Female"
+                        },
+                "Value": "3.7"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Congo",
+                          "YEAR": "2009",
+                          "GHO": "HIV prevalence",
+                          "RESIDENCEAREATYPE": "Urban",
+                          "SEX": "Male"
+                        },
+                "Value": "1.9"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Congo",
+                          "YEAR": "2009",
+                          "GHO": "HIV prevalence",
+                          "RESIDENCEAREATYPE": "Urban",
+                          "SEX": "Female"
+                        },
+                "Value": "4.6"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Congo",
+                          "YEAR": "2009",
+                          "GHO": "HIV prevalence",
+                          "RESIDENCEAREATYPE": "Rural",
+                          "SEX": "Male"
+                        },
+                "Value": "2.3"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Congo",
+                          "YEAR": "2009",
+                          "GHO": "HIV prevalence",
+                          "RESIDENCEAREATYPE": "Rural",
+                          "SEX": "Female"
+                        },
+                "Value": "3.3"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Côte d'Ivoire",
+                          "YEAR": "2005",
+                          "GHO": "HIV prevalence",
+                          "RESIDENCEAREATYPE": "Urban",
+                          "SEX": "Male"
+                        },
+                "Value": "3.2"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Côte d'Ivoire",
+                          "YEAR": "2005",
+                          "GHO": "HIV prevalence",
+                          "RESIDENCEAREATYPE": "Urban",
+                          "SEX": "Female"
+                        },
+                "Value": "7.4"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Côte d'Ivoire",
+                          "YEAR": "2005",
+                          "GHO": "HIV prevalence",
+                          "RESIDENCEAREATYPE": "Rural",
+                          "SEX": "Male"
+                        },
+                "Value": "2.5"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Côte d'Ivoire",
+                          "YEAR": "2005",
+                          "GHO": "HIV prevalence",
+                          "RESIDENCEAREATYPE": "Rural",
+                          "SEX": "Female"
+                        },
+                "Value": "5.5"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Democratic Republic of the Congo",
+                          "YEAR": "2007",
+                          "GHO": "HIV prevalence",
+                          "RESIDENCEAREATYPE": "Urban",
+                          "SEX": "Male"
+                        },
+                "Value": "1.3"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Democratic Republic of the Congo",
+                          "YEAR": "2007",
+                          "GHO": "HIV prevalence",
+                          "RESIDENCEAREATYPE": "Urban",
+                          "SEX": "Female"
+                        },
+                "Value": "2.4"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Democratic Republic of the Congo",
+                          "YEAR": "2007",
+                          "GHO": "HIV prevalence",
+                          "RESIDENCEAREATYPE": "Rural",
+                          "SEX": "Male"
+                        },
+                "Value": "0.6"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Democratic Republic of the Congo",
+                          "YEAR": "2007",
+                          "GHO": "HIV prevalence",
+                          "RESIDENCEAREATYPE": "Rural",
+                          "SEX": "Female"
+                        },
+                "Value": "1.0"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Eswatini",
+                          "YEAR": "2006-2007",
+                          "GHO": "HIV prevalence",
+                          "RESIDENCEAREATYPE": "Urban",
+                          "SEX": "Male"
+                        },
+                "Value": "26.0"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Eswatini",
+                          "YEAR": "2006-2007",
+                          "GHO": "HIV prevalence",
+                          "RESIDENCEAREATYPE": "Urban",
+                          "SEX": "Female"
+                        },
+                "Value": "37.0"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Eswatini",
+                          "YEAR": "2006-2007",
+                          "GHO": "HIV prevalence",
+                          "RESIDENCEAREATYPE": "Rural",
+                          "SEX": "Male"
+                        },
+                "Value": "17.0"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Eswatini",
+                          "YEAR": "2006-2007",
+                          "GHO": "HIV prevalence",
+                          "RESIDENCEAREATYPE": "Rural",
+                          "SEX": "Female"
+                        },
+                "Value": "29.0"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Ethiopia",
+                          "YEAR": "2011",
+                          "GHO": "HIV prevalence",
+                          "RESIDENCEAREATYPE": "Urban",
+                          "SEX": "Male"
+                        },
+                "Value": "2.9"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Ethiopia",
+                          "YEAR": "2011",
+                          "GHO": "HIV prevalence",
+                          "RESIDENCEAREATYPE": "Urban",
+                          "SEX": "Female"
+                        },
+                "Value": "5.2"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Ethiopia",
+                          "YEAR": "2011",
+                          "GHO": "HIV prevalence",
+                          "RESIDENCEAREATYPE": "Rural",
+                          "SEX": "Male"
+                        },
+                "Value": "0.5"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Ethiopia",
+                          "YEAR": "2011",
+                          "GHO": "HIV prevalence",
+                          "RESIDENCEAREATYPE": "Rural",
+                          "SEX": "Female"
+                        },
+                "Value": "0.8"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Ghana",
+                          "YEAR": "2003",
+                          "GHO": "HIV prevalence",
+                          "RESIDENCEAREATYPE": "Urban",
+                          "SEX": "Male"
+                        },
+                "Value": "1.5"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Ghana",
+                          "YEAR": "2003",
+                          "GHO": "HIV prevalence",
+                          "RESIDENCEAREATYPE": "Urban",
+                          "SEX": "Female"
+                        },
+                "Value": "2.9"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Ghana",
+                          "YEAR": "2003",
+                          "GHO": "HIV prevalence",
+                          "RESIDENCEAREATYPE": "Rural",
+                          "SEX": "Male"
+                        },
+                "Value": "1.4"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Ghana",
+                          "YEAR": "2003",
+                          "GHO": "HIV prevalence",
+                          "RESIDENCEAREATYPE": "Rural",
+                          "SEX": "Female"
+                        },
+                "Value": "2.5"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Guinea",
+                          "YEAR": "2005",
+                          "GHO": "HIV prevalence",
+                          "RESIDENCEAREATYPE": "Urban",
+                          "SEX": "Male"
+                        },
+                "Value": "0.6"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Guinea",
+                          "YEAR": "2005",
+                          "GHO": "HIV prevalence",
+                          "RESIDENCEAREATYPE": "Urban",
+                          "SEX": "Female"
+                        },
+                "Value": "3.9"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Guinea",
+                          "YEAR": "2005",
+                          "GHO": "HIV prevalence",
+                          "RESIDENCEAREATYPE": "Rural",
+                          "SEX": "Male"
+                        },
+                "Value": "1.1"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Guinea",
+                          "YEAR": "2005",
+                          "GHO": "HIV prevalence",
+                          "RESIDENCEAREATYPE": "Rural",
+                          "SEX": "Female"
+                        },
+                "Value": "0.9"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Lesotho",
+                          "YEAR": "2009",
+                          "GHO": "HIV prevalence",
+                          "RESIDENCEAREATYPE": "Urban",
+                          "SEX": "Male"
+                        },
+                "Value": "21.0"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Lesotho",
+                          "YEAR": "2009",
+                          "GHO": "HIV prevalence",
+                          "RESIDENCEAREATYPE": "Urban",
+                          "SEX": "Female"
+                        },
+                "Value": "31.0"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Lesotho",
+                          "YEAR": "2009",
+                          "GHO": "HIV prevalence",
+                          "RESIDENCEAREATYPE": "Rural",
+                          "SEX": "Male"
+                        },
+                "Value": "17.0"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Lesotho",
+                          "YEAR": "2009",
+                          "GHO": "HIV prevalence",
+                          "RESIDENCEAREATYPE": "Rural",
+                          "SEX": "Female"
+                        },
+                "Value": "25.0"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Liberia",
+                          "YEAR": "2007",
+                          "GHO": "HIV prevalence",
+                          "RESIDENCEAREATYPE": "Urban",
+                          "SEX": "Male"
+                        },
+                "Value": "2.1"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Liberia",
+                          "YEAR": "2007",
+                          "GHO": "HIV prevalence",
+                          "RESIDENCEAREATYPE": "Urban",
+                          "SEX": "Female"
+                        },
+                "Value": "2.8"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Liberia",
+                          "YEAR": "2007",
+                          "GHO": "HIV prevalence",
+                          "RESIDENCEAREATYPE": "Rural",
+                          "SEX": "Male"
+                        },
+                "Value": "0.6"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Liberia",
+                          "YEAR": "2007",
+                          "GHO": "HIV prevalence",
+                          "RESIDENCEAREATYPE": "Rural",
+                          "SEX": "Female"
+                        },
+                "Value": "1.1"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Malawi",
+                          "YEAR": "2010",
+                          "GHO": "HIV prevalence",
+                          "RESIDENCEAREATYPE": "Urban",
+                          "SEX": "Male"
+                        },
+                "Value": "12.0"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Malawi",
+                          "YEAR": "2010",
+                          "GHO": "HIV prevalence",
+                          "RESIDENCEAREATYPE": "Urban",
+                          "SEX": "Female"
+                        },
+                "Value": "22.7"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Malawi",
+                          "YEAR": "2010",
+                          "GHO": "HIV prevalence",
+                          "RESIDENCEAREATYPE": "Rural",
+                          "SEX": "Male"
+                        },
+                "Value": "7.1"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Malawi",
+                          "YEAR": "2010",
+                          "GHO": "HIV prevalence",
+                          "RESIDENCEAREATYPE": "Rural",
+                          "SEX": "Female"
+                        },
+                "Value": "10.5"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Mali",
+                          "YEAR": "2006",
+                          "GHO": "HIV prevalence",
+                          "RESIDENCEAREATYPE": "Urban",
+                          "SEX": "Male"
+                        },
+                "Comments": "Only for Bamako",
+                "Value": "1.5"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Mali",
+                          "YEAR": "2006",
+                          "GHO": "HIV prevalence",
+                          "RESIDENCEAREATYPE": "Urban",
+                          "SEX": "Female"
+                        },
+                "Comments": "Only for Bamako",
+                "Value": "2.3"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Mali",
+                          "YEAR": "2006",
+                          "GHO": "HIV prevalence",
+                          "RESIDENCEAREATYPE": "Rural",
+                          "SEX": "Male"
+                        },
+                "Comments": "Only for Bamako",
+                "Value": "0.6"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Mali",
+                          "YEAR": "2006",
+                          "GHO": "HIV prevalence",
+                          "RESIDENCEAREATYPE": "Rural",
+                          "SEX": "Female"
+                        },
+                "Comments": "Only for Bamako",
+                "Value": "1.2"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Mozambique",
+                          "YEAR": "2009",
+                          "GHO": "HIV prevalence",
+                          "RESIDENCEAREATYPE": "Urban",
+                          "SEX": "Male"
+                        },
+                "Value": "12.8"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Mozambique",
+                          "YEAR": "2009",
+                          "GHO": "HIV prevalence",
+                          "RESIDENCEAREATYPE": "Urban",
+                          "SEX": "Female"
+                        },
+                "Value": "18.4"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Mozambique",
+                          "YEAR": "2009",
+                          "GHO": "HIV prevalence",
+                          "RESIDENCEAREATYPE": "Rural",
+                          "SEX": "Male"
+                        },
+                "Value": "7.2"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Mozambique",
+                          "YEAR": "2009",
+                          "GHO": "HIV prevalence",
+                          "RESIDENCEAREATYPE": "Rural",
+                          "SEX": "Female"
+                        },
+                "Value": "10.7"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Niger",
+                          "YEAR": "2006",
+                          "GHO": "HIV prevalence",
+                          "RESIDENCEAREATYPE": "Urban",
+                          "SEX": "Male"
+                        },
+                "Value": "1.3"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Niger",
+                          "YEAR": "2006",
+                          "GHO": "HIV prevalence",
+                          "RESIDENCEAREATYPE": "Urban",
+                          "SEX": "Female"
+                        },
+                "Value": "1.5"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Niger",
+                          "YEAR": "2006",
+                          "GHO": "HIV prevalence",
+                          "RESIDENCEAREATYPE": "Rural",
+                          "SEX": "Male"
+                        },
+                "Value": "0.6"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Niger",
+                          "YEAR": "2006",
+                          "GHO": "HIV prevalence",
+                          "RESIDENCEAREATYPE": "Rural",
+                          "SEX": "Female"
+                        },
+                "Value": "0.5"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Rwanda",
+                          "YEAR": "2010",
+                          "GHO": "HIV prevalence",
+                          "RESIDENCEAREATYPE": "Urban",
+                          "SEX": "Male"
+                        },
+                "Value": "5.4"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Rwanda",
+                          "YEAR": "2010",
+                          "GHO": "HIV prevalence",
+                          "RESIDENCEAREATYPE": "Urban",
+                          "SEX": "Female"
+                        },
+                "Value": "8.7"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Rwanda",
+                          "YEAR": "2010",
+                          "GHO": "HIV prevalence",
+                          "RESIDENCEAREATYPE": "Rural",
+                          "SEX": "Male"
+                        },
+                "Value": "1.6"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Rwanda",
+                          "YEAR": "2010",
+                          "GHO": "HIV prevalence",
+                          "RESIDENCEAREATYPE": "Rural",
+                          "SEX": "Female"
+                        },
+                "Value": "2.8"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Senegal",
+                          "YEAR": "2010-2011",
+                          "GHO": "HIV prevalence",
+                          "RESIDENCEAREATYPE": "Urban",
+                          "SEX": "Male"
+                        },
+                "Value": "0.3"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Senegal",
+                          "YEAR": "2010-2011",
+                          "GHO": "HIV prevalence",
+                          "RESIDENCEAREATYPE": "Urban",
+                          "SEX": "Female"
+                        },
+                "Value": "0.9"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Senegal",
+                          "YEAR": "2010-2011",
+                          "GHO": "HIV prevalence",
+                          "RESIDENCEAREATYPE": "Rural",
+                          "SEX": "Male"
+                        },
+                "Value": "0.6"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Senegal",
+                          "YEAR": "2010-2011",
+                          "GHO": "HIV prevalence",
+                          "RESIDENCEAREATYPE": "Rural",
+                          "SEX": "Female"
+                        },
+                "Value": "0.7"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Sierra Leone",
+                          "YEAR": "2008",
+                          "GHO": "HIV prevalence",
+                          "RESIDENCEAREATYPE": "Urban",
+                          "SEX": "Male"
+                        },
+                "Value": "2.2"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Sierra Leone",
+                          "YEAR": "2008",
+                          "GHO": "HIV prevalence",
+                          "RESIDENCEAREATYPE": "Urban",
+                          "SEX": "Female"
+                        },
+                "Value": "2.7"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Sierra Leone",
+                          "YEAR": "2008",
+                          "GHO": "HIV prevalence",
+                          "RESIDENCEAREATYPE": "Rural",
+                          "SEX": "Male"
+                        },
+                "Value": "0.6"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Sierra Leone",
+                          "YEAR": "2008",
+                          "GHO": "HIV prevalence",
+                          "RESIDENCEAREATYPE": "Rural",
+                          "SEX": "Female"
+                        },
+                "Value": "1.2"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Uganda",
+                          "YEAR": "2011",
+                          "GHO": "HIV prevalence",
+                          "RESIDENCEAREATYPE": "Urban",
+                          "SEX": "Male"
+                        },
+                "Value": "6.1"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Uganda",
+                          "YEAR": "2011",
+                          "GHO": "HIV prevalence",
+                          "RESIDENCEAREATYPE": "Urban",
+                          "SEX": "Female"
+                        },
+                "Value": "10.7"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Uganda",
+                          "YEAR": "2011",
+                          "GHO": "HIV prevalence",
+                          "RESIDENCEAREATYPE": "Rural",
+                          "SEX": "Male"
+                        },
+                "Value": "6.1"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Uganda",
+                          "YEAR": "2011",
+                          "GHO": "HIV prevalence",
+                          "RESIDENCEAREATYPE": "Rural",
+                          "SEX": "Female"
+                        },
+                "Value": "7.7"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "United Republic of Tanzania",
+                          "YEAR": "2011-2012",
+                          "GHO": "HIV prevalence",
+                          "RESIDENCEAREATYPE": "Urban",
+                          "SEX": "Male"
+                        },
+                "Value": "5.1"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "United Republic of Tanzania",
+                          "YEAR": "2011-2012",
+                          "GHO": "HIV prevalence",
+                          "RESIDENCEAREATYPE": "Urban",
+                          "SEX": "Female"
+                        },
+                "Value": "8.9"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "United Republic of Tanzania",
+                          "YEAR": "2011-2012",
+                          "GHO": "HIV prevalence",
+                          "RESIDENCEAREATYPE": "Rural",
+                          "SEX": "Male"
+                        },
+                "Value": "3.4"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "United Republic of Tanzania",
+                          "YEAR": "2011-2012",
+                          "GHO": "HIV prevalence",
+                          "RESIDENCEAREATYPE": "Rural",
+                          "SEX": "Female"
+                        },
+                "Value": "5.2"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Zambia",
+                          "YEAR": "2007",
+                          "GHO": "HIV prevalence",
+                          "RESIDENCEAREATYPE": "Urban",
+                          "SEX": "Male"
+                        },
+                "Value": "15.9"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Zambia",
+                          "YEAR": "2007",
+                          "GHO": "HIV prevalence",
+                          "RESIDENCEAREATYPE": "Urban",
+                          "SEX": "Female"
+                        },
+                "Value": "23.1"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Zambia",
+                          "YEAR": "2007",
+                          "GHO": "HIV prevalence",
+                          "RESIDENCEAREATYPE": "Rural",
+                          "SEX": "Male"
+                        },
+                "Value": "9.4"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Zambia",
+                          "YEAR": "2007",
+                          "GHO": "HIV prevalence",
+                          "RESIDENCEAREATYPE": "Rural",
+                          "SEX": "Female"
+                        },
+                "Value": "11.0"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Zimbabwe",
+                          "YEAR": "2010-2011",
+                          "GHO": "HIV prevalence",
+                          "RESIDENCEAREATYPE": "Urban",
+                          "SEX": "Male"
+                        },
+                "Value": "13.0"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Zimbabwe",
+                          "YEAR": "2010-2011",
+                          "GHO": "HIV prevalence",
+                          "RESIDENCEAREATYPE": "Urban",
+                          "SEX": "Female"
+                        },
+                "Value": "20.0"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Zimbabwe",
+                          "YEAR": "2010-2011",
+                          "GHO": "HIV prevalence",
+                          "RESIDENCEAREATYPE": "Rural",
+                          "SEX": "Male"
+                        },
+                "Value": "12.0"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Zimbabwe",
+                          "YEAR": "2010-2011",
+                          "GHO": "HIV prevalence",
+                          "RESIDENCEAREATYPE": "Rural",
+                          "SEX": "Female"
+                        },
+                "Value": "17.0"
+              }
+      ]
+}
