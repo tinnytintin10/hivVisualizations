@@ -1,1 +1,3 @@
-./json_data/filebeat-7.6.2-darwin-x86_64
+*.yml
+
+filebeat-7.6.2-darwin-x86_64
