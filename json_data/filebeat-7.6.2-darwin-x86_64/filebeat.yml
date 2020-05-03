@@ -13,17 +13,19 @@ filebeat.inputs:
   # Paths that should be crawled and fetched. Glob based paths.
   paths:
     #- /Users/christophercutajar/Downloads/okta_groups.json
-    - /Users/tin/Documents/GITHUB/hivVisualizations/json_data/suicideratespercountry/*
+    - /Users/tin/Documents/GITHUB/hivVisualizations/json_data/hivprevalencepercountry/*
     #- c:\programdata\elasticsearch\logs\*
-  harvester_limit: 100
+  #harvester_limit: 100
   processors:
   - decode_json_fields:
       fields: ['message']
-      target: json
+      target: prevalence
+  
     
 
 setup.template.enabled: false
 setup.ilm.enabled: false
+
 
 
 filebeat.config.modules:
@@ -46,13 +48,13 @@ setup.template.settings:
 
 #================================ Outputs =====================================
 
-# Configure what output to use when sending the data collected by the beat.
+
 
 #-------------------------- Elasticsearch output ------------------------------
 output.elasticsearch:
   # Array of hosts to connect to.
-  #hosts: ["localhost:9200"]
-  index: "hiv_suicide"
+  hosts: ["localhost:9200"]
+  index: "hiv_prev"
   # Protocol - either `http` (default) or `https`.
 
 
