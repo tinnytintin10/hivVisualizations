@@ -27,7 +27,7 @@ The script will parse through these files and output individual JSON files that 
 
 ## Data Ingestion 
 
-These individual files are then ingested by `Filebeat` and indexed into the specified index in `Elasticsearch.` Currently unable to specify multiple inputs in the `filebeats.yml` config file with multiple indexing targets.  We have created this issue #1 to explore this issue further. The current workaround is to ingest each folder one at a time by updating the config file for that respective folder and desired index name. 
+These individual files are then ingested by `Filebeat` and indexed into the specified index in `Elasticsearch.` Currently unable to specify multiple inputs in the `filebeats.yml` config file with multiple indexing targets.  We have created [this issue](https://github.com/tinnytintin10/hivVisualizations/issues/1) to explore this issue further. The current workaround is to ingest each folder one at a time by updating the config file for that respective folder and desired index name. 
 
 You would like to use our filebeat, we have included it in the `json_data` folder. 
 
