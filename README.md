@@ -3,7 +3,7 @@
 
 ## Purpose 
 
-Is there an association between mental health and HIV? We know that's a pretty general question. However, we felt as though this generality was a positive rather than a negative as we were not biased when looking for a relationship/association between the two- we were open to anything. We used data provided by the [WHO](https://apps.who.int/gho/data/node.imr#ndx-H) on HIV and Mental Health (specifically suicide rates) to look for answers to this question. 
+The purpose of these visualisations was to determine whether there was a relationship between HIV and mental health. We used data provided by the [WHO](https://apps.who.int/gho/data/node.imr#ndx-H) on HIV and Mental Health (specifically suicide rates). 
 
 ## Data Analysis 
 To analyze this data, we used the [`Elastic Stack`](https://www.elastic.co/elastic-stack), formerly known as the `ELK` stack. The `Elastic Search` and `Kibana` binaries can be downloaded from the link above to replicate this work. In our cluster, we used three indices and three separate index patterns (we can use `hiv_*` to combine the two HIV indices) to organize our data. 
