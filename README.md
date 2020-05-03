@@ -12,7 +12,7 @@ To analyze this data, we used the [`Elastic Stack`](https://www.elastic.co/elast
 `hiv_treat` - an index containing the data on HIV treatment availability 
 `suicide` - an index containing the data on suicide rates 
 
-If you would like to use the same instance as we are using, you may do so by downloading the binaries from [our S3 bucket](link). For these binaries, the only thing you'll need to do is launch them `./elasticsearch-7.6.2/bin/elasticsearch`  and  `./kibana-7.6.2-darwin-x86_64 2/bin/kibana`, and they will have these indices loaded and the dashboards pre-built- more detailed instructions are below in the "Explore our Dashboards on your own" section. 
+If you would like to use the same instance as we are using, you may do so by downloading the binaries from [our S3 bucket](https://hivvisulizations.s3.amazonaws.com/Elastic+Stack/Elastic+Stack.zip). For these binaries, the only thing you'll need to do is launch them `./elasticsearch-7.6.2/bin/elasticsearch`  and  `./kibana-7.6.2-darwin-x86_64 2/bin/kibana`, and they will have these indices loaded and the dashboards pre-built- more detailed instructions are below in the "Explore our Dashboards on your own" section. 
 
 ## Data manipulation 
 
@@ -37,7 +37,7 @@ If you run into any issues getting this running on your device - please cut an i
 
 ## Explore our Dashboards on your own  
 
-1. Download our modified `Elasticsearch` and `Kibana` binaries from [here]()
+1. Download our modified `Elasticsearch` and `Kibana` binaries from [here](https://hivvisulizations.s3.amazonaws.com/Elastic+Stack/Elastic+Stack.zip)
 
 2. After decompressing the file you downloaded, open a terminal, and navigate to where you downloaded the above folder. Once in the `Elastic Stack` folder, navigate into the `bin` folder in the `elasticsearch` folder. Once there, you can start elastic search with this command. `./elasticsearch`
 
